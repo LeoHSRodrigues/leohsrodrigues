@@ -29,8 +29,7 @@
         src="https://img.shields.io/badge/nuxt-00DC81?style=for-the-badge&logo=nuxt.js&logoColor=white"
         alt="Nuxt.js" /></a>
 <a href="https://nextjs.org/" target="_blank"> <img
-        src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white"
-        alt="Next" /></a>
+        src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next" /></a>
 
 
 <h3 align="left">Backend:</h3>
@@ -49,7 +48,7 @@
         alt="NestJS" /></a>
 
 
-### Data
+<h3 align="left">Data:</h3>
 
 <a href="https://www.postgresql.org/" target="_blank"> <img
         src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
@@ -67,7 +66,7 @@
         src="https://img.shields.io/badge/PRIsma-273141?style=for-the-badge&logo=prisma&logoColor=white"
         alt="Prisma" /></a>
 
-### Testing
+<h3 align="left">Testing:</h3>
 
 <a href="https://www.cypress.io/" target="_blank"> <img
         src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"
@@ -75,7 +74,7 @@
 <a href="https://jestjs.io/pt-BR/" target="_blank"> <img
         src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"></a>
 
-### Collaboration
+<h3 align="left">Collaboration:</h3>
 
 <a href="https://git-scm.com/" target="_blank"> <img
         src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </a>
@@ -87,7 +86,8 @@
         alt="GitLab"></a>
 
 
-### Cloud
+<h3 align="left">Cloud:</h3>
+
 <a href="https://cloud.google.com/" target="_blank"> <img
         src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"
         alt="Google Cloud Platform" /> </a>
